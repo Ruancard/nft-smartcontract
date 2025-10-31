@@ -1,1 +1,1 @@
-# nft-smartcontract
+Solidity Smart Contract
